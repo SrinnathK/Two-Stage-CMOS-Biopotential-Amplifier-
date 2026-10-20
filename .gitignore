@@ -1,0 +1,21 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Simulation-generated files
+*.log
+*.out
+*.raw
+*.trn
+*.ac
+*.psf/
+simulation/
+simResults/
+
+# Common lock/temp files
+*.cdslck
+*~
